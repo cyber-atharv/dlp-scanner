@@ -8,3 +8,6 @@ All notable changes to dlp-scanner will be documented in this file.
 ## [0.1.1] - 2025-10-17
 - feat: implement Luhn algorithm for credit card number validation
 
+## [0.1.2] - 2025-10-20
+- feat: add SSN, IBAN, and private key pattern matching with context checks
+
